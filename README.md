@@ -1,4 +1,4 @@
-Simple, text-based tictactoe game written in Python 2x.
+Simple, text-based tictactoe game written in Python 2.x
 
 Computer play against human.
 Can hardcode computer as dummy player based on random selection or
